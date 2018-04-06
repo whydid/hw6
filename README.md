@@ -26,4 +26,4 @@ Difficult, important, fundamental являются самыми частотны
 
 ![](https://github.com/whydid/hw6/blob/master/5.png)
 
-Глаголы "scream" и "shout" - синонимы. Оба глагола могут употребляться со словами "obscenity" и "abuse". 
+Глаголы "scream" и "shout" - синонимы. Оба глагола могут употребляться со словами "obscenity" и "abuse". Однако, object "warning" употребляется со словом "shout", в то время как object "headline" употребляется со словом "scream".
