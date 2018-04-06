@@ -30,4 +30,7 @@ Difficult, important, fundamental являются самыми частотны
 
 ## БОНУСНОЕ ЗАДАНИЕ
 
+![](https://github.com/whydid/hw6/blob/master/6.png)
 ![]()
+![]()
+
