@@ -18,6 +18,6 @@
 
 ЗАДАНИЕ 1
 
-![]()
+![](https://github.com/whydid/hw6/blob/master/4..png)
 
 Difficult, important, fundamental являются самыми частотными модификаторами существительного question. 
