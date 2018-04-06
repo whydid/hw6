@@ -5,3 +5,7 @@
 ЗАДАНИЕ 2
 
 ![](https://github.com/whydid/hw6/blob/master/2.png)
+
+ЗАДАНИЕ 3
+
+![](https://github.com/whydid/hw6/blob/master/3.png)
